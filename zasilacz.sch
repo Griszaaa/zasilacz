@@ -18004,6 +18004,7 @@ Es handelt sich hierbei um AK500 in horizontaler Ausführung.&lt;p&gt;
 <wire x1="236.22" y1="157.48" x2="152.4" y2="157.48" width="0.508" layer="97" style="shortdash"/>
 <wire x1="152.4" y1="157.48" x2="152.4" y2="109.22" width="0.508" layer="97" style="shortdash"/>
 <text x="160.02" y="152.4" size="3.81" layer="97">ZASILANIE WOLTOMIERZA</text>
+<text x="170.18" y="55.88" size="1.778" layer="97">10K</text>
 </plain>
 <instances>
 <instance part="IC1" gate="1" x="160.02" y="81.28" smashed="yes">
