@@ -1,5 +1,7 @@
 # Zasilacz stabilizowany regulowany
-![zasilacz](zasilacz.jpg)
+![zasilacz](images/zasilacz.jpg)
+![zasilacz2](images/zasilacz2.jpg)
+![zasilacz2](images/zasilacz3.jpg)
 ## Założenia projektowe
 Założeniem projektu było skonstruowanie kompletnego dwukanałowego zasilacza stabilizowanego z płynną regulacją napięcia wyjściowego od 1.25 V do 12 V. Sprzętową realizację idei zasilacza oparto o scalony układ stabilizatora liniowego LM317. Z uwagi na dużą wydajność prądową stabilizatora należało uwzględnić rozproszenie wydzielającego się na nim ciepła. Zasilacz domyślnie powinien być wyposażony w potencjometryczną regulację napięcia wraz z jego graficzną reprezentacją na wyświetlaczu 7–segmentowym dołączonego miernika panelowego, a ponadto w rejestrację rzeczywistego poboru prądu przez obciążenie. Wyjście zasilacza przewidziano jako gniazda DC 2.1/5.5.
 ## Realizacja
